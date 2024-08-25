@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Vladislav Terebey
 - 🌱 I’m currently learning Golang
 - 👨‍💻 All of my projects are available at [my github!](https://github.com/vterebey)
-- - 📫 How to reach me **vladterebei@gmail.com**
+- 📫 How to reach me **vladterebei@gmail.com**
  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
