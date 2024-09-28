@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Vladislav Terebey
-- 🌱 I’m currently learning Golang
-- 👨‍💻 All of my projects are available at [my github!](https://github.com/vterebey)
-- My CV: [CV](https://vterebey.github.io/index.html)
+- 🌱 I’m currently learning Django
 - 📫 How to reach me **vladterebei@gmail.com**
  
 <h3 align="left">Connect with me:</h3>
